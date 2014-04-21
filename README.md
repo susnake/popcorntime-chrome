@@ -1,4 +1,1 @@
-popcorntime-chrome
-==================
-
-Popcorn time for google chrome extension
+Time to watch Movie!
